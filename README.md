@@ -14,16 +14,25 @@ Secure user authentication using JWT (JSON Web Tokens).
 **📦 Technologies Used**
 **Frontend:**
 React.js
+
 Tailwind CSS
+
 Redux
+
 RTK Query Toolkit
+
 **Backend:**
 Node.js
+
 Express.js
+
 Mongoose (for MongoDB interaction)
+
 **Database:**
 MongoDB
+
 Authentication:
+
 JSON Web Tokens (JWT)
 
 **🎨 Features**
