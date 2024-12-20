@@ -38,10 +38,13 @@ JSON Web Tokens (JWT)
 **🎨 Features**
 User Authentication:
 Secure login and registration for users and admins.
+
 Book Management:
 Admins can add, edit, or delete books from the inventory.
+
 Shopping Cart:
 Users can add books to their cart, remove items, and proceed to checkout.
+
 Responsive Design:
 The application is fully responsive and works well on various devices.
 
